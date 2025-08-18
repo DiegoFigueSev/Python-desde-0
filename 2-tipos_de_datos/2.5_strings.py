@@ -1,4 +1,11 @@
 '''
+UN str es:
+- INDEXEABLE
+- INMUTABLE
+- ES UN ITERATOR -> SE PUEDE ITERAR PERO NO MUTAR
+'''
+
+'''
 str
 Para definir un string simplemente o:
 - encerramos la palabra en " _ "
