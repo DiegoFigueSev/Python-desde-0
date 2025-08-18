@@ -19,3 +19,5 @@ Que se puede hacer con python?
 - etc etc etc
 
 Python es el lenguaje con mas posibilidades de especializacion 
+
+**TODO EN PYTHON ES UN OBJETO**
