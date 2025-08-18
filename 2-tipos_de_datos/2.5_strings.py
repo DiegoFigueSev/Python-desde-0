@@ -98,3 +98,29 @@ Pero otro ejemplo mas facil es hacerlo con f' _ '
 
 texto = f'La suma de 2 + 2 es {2+2}'
 print(texto)
+
+'''
+Dos cadenas de texto lado a lado se concatenan 
+automaticamente
+'''
+
+texto = 'Diego' 'Figueroa'
+print(texto)
+
+'''
+Los strings son indexeables
+Osea se pueden indexar
+'''
+
+texto_slice = texto[0]
+print(texto_slice)
+
+# Podemos hacer tecnicas de slice
+texto_slice = texto[:3]
+print(texto_slice)
+
+texto_slice = texto[:-3]
+print(texto_slice)
+
+texto_slice = texto[::-1]
+print(texto_slice)
