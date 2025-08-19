@@ -124,3 +124,12 @@ print(texto_slice)
 
 texto_slice = texto[::-1]
 print(texto_slice)
+
+'''
+Para realizar la conversion de cualquier 
+a str -> string se usa:
+
+str(x) -> Representacion humana
+
+para depuracion usa repr(x)
+'''

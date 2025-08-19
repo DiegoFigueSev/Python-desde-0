@@ -30,3 +30,13 @@ Los operadores booleanos son los siguientes:
 print(True and False)
 print(True or False)
 print(not True)
+
+
+'''
+Para realizar la conversion de cualquier tipo 
+a booleano se hace:
+
+bool(x) 
+False si x ∈ {0, 0.0, 0j, '', [], {}, set(), range(0), None}
+todo lo demás es True. Ojo: bool("False") → True.
+'''

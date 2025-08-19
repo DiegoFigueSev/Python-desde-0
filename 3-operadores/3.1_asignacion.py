@@ -48,3 +48,10 @@ print(a)
 # Asignacion multiple
 a, b, c = 10, 'hola', False
 print(f'{a}, {b}, {c}')
+
+'''
+Algunas de estas operaciones pueden usarse
+no solo en numeros, si no tambien en:
+- str
+- colecciones
+'''

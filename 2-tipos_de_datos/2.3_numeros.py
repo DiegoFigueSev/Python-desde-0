@@ -40,3 +40,16 @@ fraction = Fraction(16, -10)
 from decimal import *
 decimal = Decimal(1) / Decimal(7)
 print(decimal)
+
+
+'''
+Para realizar la conversion de cualquier dato 
+a alguno numerico se usa: 
+
+(x es un elemento/tipo de datos)
+int -> int(x) 
+int -> int(x, base) : int('101', 2)
+float -> float(x)
+complex -> (r, i) : complex(3, 4)
+decimal -> Decimal(x)
+'''
