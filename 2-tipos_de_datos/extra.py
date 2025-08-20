@@ -12,3 +12,11 @@ ELIMINA TOTALMENTE UNA VARIABE Y SU REFERENCIA EN MEMORIA
 
 ejemplo = 10
 del ejemplo # retornara un Error: name 'ejemplo' is not defined
+
+
+
+'''
+Existen dos tipos de datos mas:
+- None -> Similar a null o void
+- Any -> Similar a los dynamic en dart 
+'''

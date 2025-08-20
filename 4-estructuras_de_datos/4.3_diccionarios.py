@@ -101,3 +101,14 @@ Para realizar la conversion se usa:
 
 dict()
 '''
+
+'''
+EL ARGUMENTO * ES SUPER IMPORTANTE
+NOS AYUDA A DESENPAQUETAR LOS ELEMENTOS DE UN DICCIONARIO
+
+Similar a lo que hace {...dict} en dart
+'''
+
+usuario = {'nombre': 'Diego', 'edad': 23}
+usuario_completo = {**usuario, 'nacionalidad': 'Boliviano'}
+print(usuario_completo)
