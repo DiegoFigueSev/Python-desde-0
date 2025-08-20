@@ -1,0 +1,16 @@
+{
+  "nombre": "Diego",
+  "apellido": "Figueroa",
+  "edad": 23,
+  "habilidades": {
+    "blandas": [
+      "social",
+      " amigable",
+      "enfocado"
+    ],
+    "tecnicas": [
+      "comprometido",
+      "genio"
+    ]
+  }
+}
