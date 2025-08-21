@@ -1,0 +1,9 @@
+Para desarrollo:
+
+BaseModel -> Se encarga de generar de manera mas rapida clases
+dataclasses -> es un modulo incoporado
+
+Para desarrollo web:
+
+FastAPI -> Backend (Ya implementa BaseModel)
+Stwarberry -> Graphql 
