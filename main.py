@@ -1,6 +1,5 @@
-from math.operations.multiply import *
 
-a = multiply(2, 2)
+a = 'hola'
 print(a)
 
 def multiply():
