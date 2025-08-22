@@ -7,3 +7,11 @@ Para desarrollo web:
 
 FastAPI -> Backend (Ya implementa BaseModel)
 Stwarberry -> Graphql 
+
+
+
+QUE FALTA A LA CLASE?
+
+- Manejo de funciones YIELD
+- TypeHints
+

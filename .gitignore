@@ -1,2 +1,92 @@
 __pycache__
 math
+
+# ---- Archivos de Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# ---- Entornos virtuales ----
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+tutorial-env/
+
+# ---- Dependencias ----
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.manifest
+*.spec
+
+# ---- Configuración y caché de herramientas ----
+*.log
+*.pot
+*.pyproj
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints
+*.ipynb_save
+
+# ---- IDEs ----
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# ---- Sistemas operativos ----
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ---- Otros ----
+# Archivos de entorno local
+*.env
+*.local
+.env.*
+.envrc
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
